@@ -124,7 +124,7 @@ Parameters:
     ConstraintDescription: Password must be between 8 and 32 characters, start with lowercase or uppercase letter, and can be alphanumeric with the following special characters !@#$%&
     NoEcho: true
     AllowedPattern: ^[a-zA-Z][a-zA-Z0-9!@#$%&]{8,32}$
-    Default: "Ashik1234"
+    Default: "karthik1234"
   Path:
     Type: String
     Description: What IAM Path would you like to associate with the User?
