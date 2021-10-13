@@ -1,4 +1,4 @@
-AWSTemplateFormatVersion: '2010-09-09'
+AWSTemplateFormatVersion: '2010-09-10'
 Description: >-
   Creates a transit gateway two VPCs each with two private subnets and routes
   for each subnet to the TGW. A security group permitting all traffic to/from
